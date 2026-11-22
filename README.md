@@ -1,2 +1,3 @@
 ## XWorm 5.6
-احدث نسخة كلين من اكس وورم، اوبن سورس بإمكانك تغيير الحقوق وكل شيء ..
+
+The latest clean version of X-Worm; it is open-source, allowing you to modify the credits and everything else.
